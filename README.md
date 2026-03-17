@@ -31,3 +31,9 @@ I enjoy taking ideas from concept to working products, focusing on clean archite
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kaosara-adelekan-07b912365?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLj95v19AT66Fxv8ecp0DzA%3D%3D
 - Email: adelekanifeoluwa1402@gmail.com
+
+- ## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ife-codez&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ife-codez&layout=compact)
